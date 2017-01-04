@@ -46,3 +46,19 @@ the record with the data we provided is created in the database.*
 
 **Finally, we can edit and delete any record we want by simply clicking on either the update or Delete icons at the end 
 of each record listed inside the HTML Table.**
+
+**Below we see the submit form :**
+
+![alt tag](screenshots/form.png "Submit Form")
+
+*As we can see Company and Email are optional, so we can leave these cells empty.*
+
+*After we complete the form, we click on the save button under the form.*
+
+**The HTML table with the records inserted in the Database looks like this :**
+
+![alt tag](screenshots/table.png "Submit Form")
+
+*At the end of the HTML table there are two buttons, update and delete.*
+
+*Update lets us update a record in the Database and delete to delete one.*
