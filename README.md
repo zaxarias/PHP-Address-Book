@@ -5,6 +5,10 @@
 ### Features:
 *Add,edit,delete and search records*
 
+**XAMPP was used as the Local Web Server**
+*XAMPP stands for Cross-Platform (X), Apache (A), MariaDB (M), PHP (P) and Perl (P).*
+
+### Some important information about the SQL Database###
 **MySQL Database name: myform**
 **Table name: cform**
 
