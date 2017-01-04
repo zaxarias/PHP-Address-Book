@@ -44,4 +44,4 @@ the record with the data we provided is created in the database.*
 *Ofcorse we can add as many records as we want.*
 
 **Finally, we can edit and delete any record we want by simply clicking on either the update or Delete icons at the end 
-of each record listed inside the HTML Table**
+of each record listed inside the HTML Table.**
