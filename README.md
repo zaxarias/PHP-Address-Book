@@ -24,12 +24,12 @@
 *As soon as we complete the form included in the index.php and click on the submit button
 the record with the data we provided is created in the database.*
 
-**The form has 3 required fields: **
+**The form has 3 required fields:**
 - Name
 - Lastname
 - Number
 
-**And 2 optional fields: **
+**And 2 optional fields:**
 - Company
 - Email
 
