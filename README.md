@@ -1,5 +1,8 @@
 # PHP-Address-Book
-Web based Address book using PHP and MySQL
+
+# Add,edit,delete and search records
+
+# Web based Address book using PHP and MySQL
 
 MySQL Database name: myform
 Table name: cform
