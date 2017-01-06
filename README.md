@@ -62,3 +62,20 @@ of each record listed inside the HTML Table.**
 *At the end of the HTML table there are two buttons, update and delete.*
 
 *Update lets us update a record in the Database and delete to delete one.*
+
+**Lets say we want to update the record with Firstname:name9, Lastname:Lastname9 etc... **
+
+*We click on the update icon for the above record and we get the following Table :*
+
+| First Name | Last Name | Number   | Company | Email        |
+|------------|-----------|----------|---------|--------------|
+|name9       | lastname9 |1234567890|company9 |mail9@mail.com|
+
+*Below there is a screenshot of that table :*
+
+![alt tag](screenshots/update.png "Submit Form")
+
+*We complete the form with thew new data and click on the update icon. After that the specific record is updated in the
+Database with the new values we entered inside the form.*
+
+*Deletion is a lot  simpler. After we click on the delete button the specific record is deleted from the Database and we get back a message with the ID of the record we just deleted.*
