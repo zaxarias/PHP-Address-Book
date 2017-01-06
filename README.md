@@ -15,12 +15,16 @@
 **Table name: cform**
 
 **cform Table has 6 columns with Names:**
-- column 1 Name: ID           -> Type: int(11)     -> Extra: AUTO_INCREMENT
-- column 2 Name: form_name    -> Type: text
-- column 3 Name: form_lname   -> Type: text
-- column 4 Name: form_number  -> Type: varchar(15)
-- column 5 Name: form_company -> Type: text
-- column 6 Name: form_email   -> Type: text
+
+|  #  | Name       |  Type     |  Extra       |
+|-----|------------|-----------|--------------|
+|1    |ID          |int(11)    |AUTO_INCREMENT|
+|2    |form_name   |text       |              |
+|3    |form_lname  |text       |              |
+|4    |form_number |varchar(15)|              |
+|5    |form_company|text       |              |
+|6    |form_email  |text       |              |
+
 
 *As soon as we complete the form included in the index.php and click on the submit button
 the record with the data we provided is created in the database.*
