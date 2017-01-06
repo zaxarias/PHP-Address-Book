@@ -57,13 +57,13 @@ of each record listed inside the HTML Table.**
 
 **The HTML table with the records inserted in the Database looks like this :**
 
-![alt tag](screenshots/table.png "Submit Form")
+![alt tag](screenshots/table.png "HTML table")
 
 *At the end of the HTML table there are two buttons, update and delete.*
 
 *Update lets us update a record in the Database and delete to delete one.*
 
-**Lets say we want to update the record with Firstname:name9, Lastname:Lastname9 etc... **
+**Lets say we want to update the record with Firstname:name9, Lastname:Lastname9 etc...**
 
 *We click on the update icon for the above record and we get the following Table :*
 
@@ -73,7 +73,7 @@ of each record listed inside the HTML Table.**
 
 *Below there is a screenshot of that table :*
 
-![alt tag](screenshots/update.png "Submit Form")
+![alt tag](screenshots/update.png "Update Form")
 
 *We complete the form with thew new data and click on the update icon. After that the specific record is updated in the
 Database with the new values we entered inside the form.*
