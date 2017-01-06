@@ -14,7 +14,7 @@
 
 **Table name: cform**
 
-**cform Table has 6 columns with Names:**
+**The structure of the cform Table is as follows :**
 
 |  #  | Name       |  Type     |  Extra       |
 |-----|------------|-----------|--------------|
@@ -55,7 +55,7 @@ of each record listed inside the HTML Table.**
 
 ![alt tag](screenshots/form.png "Submit Form")
 
-*As we can see Company and Email are optional, so we can leave these cells empty.*
+*As we can see Company and Email are optional, so we can leave those fields empty.*
 
 *After we complete the form, we click on the save button under the form.*
 
